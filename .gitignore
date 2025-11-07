@@ -1,0 +1,13 @@
+# env
+.venv/
+.env
+
+.specstory/
+
+# io
+output/
+data/
+eval_output/
+
+# python
+__pycache__/
